@@ -1220,8 +1220,8 @@
                   <Children />
                 </Control>
                 <Control TypeIdentifier="Helios.Base.PushButton" Name="pad EM_CON" SnapTarget="True" Locked="False">
-                  <Location>270,44</Location>
-                  <Size>33,30</Size>
+                  <Location>267,39</Location>
+                  <Size>38,35</Size>
                   <Hidden>False</Hidden>
                   <Type>Momentary</Type>
                   <Image>Capt_Zeen\F18\pad_EM-CON_NRM.png</Image>
@@ -1229,8 +1229,8 @@
                   <Children />
                 </Control>
                 <Control TypeIdentifier="Helios.Base.Potentiometer" Name="COM 1 Vol" SnapTarget="True" Locked="False">
-                  <Location>9,79</Location>
-                  <Size>23,23</Size>
+                  <Location>0,74</Location>
+                  <Size>37,37</Size>
                   <Hidden>False</Hidden>
                   <KnobImage>Capt_Zeen\F18\rotator_005.png</KnobImage>
                   <InitialValue>0</InitialValue>
@@ -1247,8 +1247,8 @@
                   <Children />
                 </Control>
                 <Control TypeIdentifier="Helios.Base.Potentiometer" Name="COM 2 Vol" SnapTarget="True" Locked="False">
-                  <Location>273,76</Location>
-                  <Size>30,31</Size>
+                  <Location>267,74</Location>
+                  <Size>33,33</Size>
                   <Hidden>False</Hidden>
                   <KnobImage>Capt_Zeen\F18\rotator_005.png</KnobImage>
                   <InitialValue>0</InitialValue>
@@ -1265,8 +1265,8 @@
                   <Children />
                 </Control>
                 <Control TypeIdentifier="Helios.Base.Potentiometer" Name="BRT Dim" SnapTarget="True" Locked="False">
-                  <Location>272,1</Location>
-                  <Size>32,33</Size>
+                  <Location>267,0</Location>
+                  <Size>35,35</Size>
                   <Hidden>False</Hidden>
                   <KnobImage>Capt_Zeen\F18\rotator_005.png</KnobImage>
                   <InitialValue>0</InitialValue>
@@ -1283,8 +1283,8 @@
                   <Children />
                 </Control>
                 <Control TypeIdentifier="Helios.Base.ThreeWayToggleSwitch" Name="ADF Switch" SnapTarget="True" Locked="False">
-                  <Location>12,50</Location>
-                  <Size>20,20</Size>
+                  <Location>0,34</Location>
+                  <Size>44,44</Size>
                   <Hidden>False</Hidden>
                   <SwitchType>OnOnOn</SwitchType>
                   <Orientation>Vertical</Orientation>
@@ -1296,8 +1296,8 @@
                   <Children />
                 </Control>
                 <Control TypeIdentifier="Helios.Base.PushButton" Name="UFC Option Select Pushbutton 1" SnapTarget="True" Locked="False">
-                  <Location>152,0</Location>
-                  <Size>30,30</Size>
+                  <Location>149,0</Location>
+                  <Size>35,35</Size>
                   <Hidden>False</Hidden>
                   <Type>Momentary</Type>
                   <Image>Capt_Zeen\F18\button_006_NRM.png</Image>
@@ -1305,8 +1305,8 @@
                   <Children />
                 </Control>
                 <Control TypeIdentifier="Helios.Base.PushButton" Name="UFC Option Select Pushbutton 2" SnapTarget="True" Locked="False">
-                  <Location>152,34</Location>
-                  <Size>29,29</Size>
+                  <Location>149,34</Location>
+                  <Size>35,35</Size>
                   <Hidden>False</Hidden>
                   <Type>Momentary</Type>
                   <Image>Capt_Zeen\F18\button_006_NRM.png</Image>
@@ -1314,8 +1314,8 @@
                   <Children />
                 </Control>
                 <Control TypeIdentifier="Helios.Base.PushButton" Name="UFC Option Select Pushbutton 3" SnapTarget="True" Locked="False">
-                  <Location>152,69</Location>
-                  <Size>29,29</Size>
+                  <Location>149,69</Location>
+                  <Size>35,35</Size>
                   <Hidden>False</Hidden>
                   <Type>Momentary</Type>
                   <Image>Capt_Zeen\F18\button_006_NRM.png</Image>
@@ -1323,8 +1323,8 @@
                   <Children />
                 </Control>
                 <Control TypeIdentifier="Helios.Base.PushButton" Name="UFC Option Select Pushbutton 4" SnapTarget="True" Locked="False">
-                  <Location>152,103</Location>
-                  <Size>29,29</Size>
+                  <Location>149,103</Location>
+                  <Size>35,35</Size>
                   <Hidden>False</Hidden>
                   <Type>Momentary</Type>
                   <Image>Capt_Zeen\F18\button_006_NRM.png</Image>
@@ -1332,8 +1332,8 @@
                   <Children />
                 </Control>
                 <Control TypeIdentifier="Helios.Base.PushButton" Name="UFC Option Select Pushbutton 5" SnapTarget="True" Locked="False">
-                  <Location>152,138</Location>
-                  <Size>29,29</Size>
+                  <Location>149,138</Location>
+                  <Size>35,35</Size>
                   <Hidden>False</Hidden>
                   <Type>Momentary</Type>
                   <Image>Capt_Zeen\F18\button_006_NRM.png</Image>
@@ -1341,8 +1341,8 @@
                   <Children />
                 </Control>
                 <Control TypeIdentifier="Helios.Base.PushButton" Name="UFC I_P" SnapTarget="True" Locked="False">
-                  <Location>14,13</Location>
-                  <Size>24,24</Size>
+                  <Location>0,3</Location>
+                  <Size>35,35</Size>
                   <Hidden>False</Hidden>
                   <Type>Momentary</Type>
                   <Image>Capt_Zeen\F18\button_006_NRM.png</Image>
@@ -1538,8 +1538,8 @@
                   <Children />
                 </Control>
                 <Control TypeIdentifier="Helios.Base.RotaryEncoder" Name="comm 1 rot" SnapTarget="True" Locked="False">
-                  <Location>2,110</Location>
-                  <Size>29,29</Size>
+                  <Location>9,110</Location>
+                  <Size>28,28</Size>
                   <Hidden>False</Hidden>
                   <KnobImage>Capt_Zeen\F18\rotator_019.png</KnobImage>
                   <RotationStep>5</RotationStep>
@@ -1552,8 +1552,8 @@
                   <Children />
                 </Control>
                 <Control TypeIdentifier="Helios.Base.RotaryEncoder" Name="comm 2 rot" SnapTarget="True" Locked="False">
-                  <Location>275,107</Location>
-                  <Size>29,29</Size>
+                  <Location>266,107</Location>
+                  <Size>35,35</Size>
                   <Hidden>False</Hidden>
                   <KnobImage>Capt_Zeen\F18\rotator_019.png</KnobImage>
                   <RotationStep>5</RotationStep>
@@ -1566,8 +1566,8 @@
                   <Children />
                 </Control>
                 <Control TypeIdentifier="Helios.Base.PushButton" Name="comm 2 pull" SnapTarget="True" Locked="False">
-                  <Location>283,114</Location>
-                  <Size>13,13</Size>
+                  <Location>276,116</Location>
+                  <Size>15,15</Size>
                   <Hidden>False</Hidden>
                   <Type>Momentary</Type>
                   <Image>{Helios}/Images/Buttons/tactile-dark-round.png</Image>
@@ -1575,8 +1575,8 @@
                   <Children />
                 </Control>
                 <Control TypeIdentifier="Helios.Base.PushButton" Name="comm 1 pull" SnapTarget="True" Locked="False">
-                  <Location>8,118</Location>
-                  <Size>13,13</Size>
+                  <Location>17,118</Location>
+                  <Size>11,11</Size>
                   <Hidden>False</Hidden>
                   <Type>Momentary</Type>
                   <Image>{Helios}/Images/Buttons/tactile-dark-round.png</Image>
