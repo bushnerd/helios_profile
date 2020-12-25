@@ -19,9 +19,9 @@
       <AlwaysOnTop>True</AlwaysOnTop>
       <Background />
       <Children>
-        <Control TypeIdentifier="Helios.Panel" Name="Panel_ABOUT" SnapTarget="True" Locked="True">
-          <Location>80,86</Location>
-          <Size>180,171</Size>
+        <Control TypeIdentifier="Helios.Panel" Name="Panel_ABOUT" SnapTarget="True" Locked="False">
+          <Location>42,251</Location>
+          <Size>302,287</Size>
           <Hidden>True</Hidden>
           <Background>
             <Color>#FF1E1E1E</Color>
@@ -35,7 +35,7 @@
                 <FontFamily>Franklin Gothic</FontFamily>
                 <FontStyle>Normal</FontStyle>
                 <FontWeight>Normal</FontWeight>
-                <FontSize>9.7852631578947</FontSize>
+                <FontSize>16.5528882027426</FontSize>
                 <HorizontalAlignment>Center</HorizontalAlignment>
                 <VerticalAlignment>Center</VerticalAlignment>
                 <Padding>
@@ -45,9 +45,9 @@
                   <Bottom>0</Bottom>
                 </Padding>
               </Font>
-              <Text> Capt Zeen FA-18C beta</Text>
-              <Location>19,6</Location>
-              <Size>133,30</Size>
+              <Text>ryan's FA-18C for ipad mini4</Text>
+              <Location>31,8</Location>
+              <Size>222,48</Size>
               <Hidden>False</Hidden>
               <Children />
             </Control>
@@ -59,7 +59,7 @@
                 <FontFamily>Franklin Gothic</FontFamily>
                 <FontStyle>Normal</FontStyle>
                 <FontWeight>Normal</FontWeight>
-                <FontSize>5.87115789473678</FontSize>
+                <FontSize>9.93173292164548</FontSize>
                 <HorizontalAlignment>Center</HorizontalAlignment>
                 <VerticalAlignment>Bottom</VerticalAlignment>
                 <Padding>
@@ -70,8 +70,8 @@
                 </Padding>
               </Font>
               <Text>16:10 monitor resolution</Text>
-              <Location>38,35</Location>
-              <Size>89,8</Size>
+              <Location>63,58</Location>
+              <Size>147,11</Size>
               <Hidden>False</Hidden>
               <Children />
             </Control>
@@ -83,7 +83,7 @@
                 <FontFamily>Franklin Gothic</FontFamily>
                 <FontStyle>Normal</FontStyle>
                 <FontWeight>Normal</FontWeight>
-                <FontSize>5.87115789473678</FontSize>
+                <FontSize>9.93173292164548</FontSize>
                 <HorizontalAlignment>Center</HorizontalAlignment>
                 <VerticalAlignment>Bottom</VerticalAlignment>
                 <Padding>
@@ -94,8 +94,8 @@
                 </Padding>
               </Font>
               <Text>UPDATE 3</Text>
-              <Location>38,27</Location>
-              <Size>89,8</Size>
+              <Location>63,43</Location>
+              <Size>147,11</Size>
               <Hidden>False</Hidden>
               <Children />
             </Control>
@@ -107,7 +107,7 @@
                 <FontFamily>Franklin Gothic</FontFamily>
                 <FontStyle>Normal</FontStyle>
                 <FontWeight>Normal</FontWeight>
-                <FontSize>9.06042884990253</FontSize>
+                <FontSize>15.3267483358728</FontSize>
                 <HorizontalAlignment>Center</HorizontalAlignment>
                 <VerticalAlignment>Center</VerticalAlignment>
                 <Padding>
@@ -117,9 +117,9 @@
                   <Bottom>0</Bottom>
                 </Padding>
               </Font>
-              <Text>release date: NOV/11/2019</Text>
-              <Location>20,52</Location>
-              <Size>137,21</Size>
+              <Text>release date: DEC/25/2020</Text>
+              <Location>32,85</Location>
+              <Size>230,33</Size>
               <Hidden>False</Hidden>
               <Children />
             </Control>
@@ -131,7 +131,7 @@
                 <FontFamily>Franklin Gothic</FontFamily>
                 <FontStyle>Normal</FontStyle>
                 <FontWeight>Normal</FontWeight>
-                <FontSize>9.06042884990253</FontSize>
+                <FontSize>15.3267483358728</FontSize>
                 <HorizontalAlignment>Center</HorizontalAlignment>
                 <VerticalAlignment>Bottom</VerticalAlignment>
                 <Padding>
@@ -142,8 +142,8 @@
                 </Padding>
               </Font>
               <Text>www.captzeen.com</Text>
-              <Location>23,135</Location>
-              <Size>116,13</Size>
+              <Location>36,226</Location>
+              <Size>194,20</Size>
               <Hidden>False</Hidden>
               <Children />
             </Control>
@@ -155,7 +155,7 @@
                 <FontFamily>Franklin Gothic</FontFamily>
                 <FontStyle>Normal</FontStyle>
                 <FontWeight>Normal</FontWeight>
-                <FontSize>9.06042884990253</FontSize>
+                <FontSize>15.3267483358728</FontSize>
                 <HorizontalAlignment>Center</HorizontalAlignment>
                 <VerticalAlignment>Center</VerticalAlignment>
                 <Padding>
@@ -166,8 +166,8 @@
                 </Padding>
               </Font>
               <Text>captzeen@gmail.com</Text>
-              <Location>22,122</Location>
-              <Size>120,16</Size>
+              <Location>36,204</Location>
+              <Size>200,26</Size>
               <Hidden>False</Hidden>
               <Children />
             </Control>
@@ -179,7 +179,7 @@
                 <FontFamily>Franklin Gothic</FontFamily>
                 <FontStyle>Normal</FontStyle>
                 <FontWeight>Normal</FontWeight>
-                <FontSize>9.06042884990253</FontSize>
+                <FontSize>15.3267483358728</FontSize>
                 <HorizontalAlignment>Center</HorizontalAlignment>
                 <VerticalAlignment>Center</VerticalAlignment>
                 <Padding>
@@ -190,8 +190,8 @@
                 </Padding>
               </Font>
               <Text>https://discord.gg/sS66aJf</Text>
-              <Location>13,93</Location>
-              <Size>148,15</Size>
+              <Location>20,154</Location>
+              <Size>248,23</Size>
               <Hidden>False</Hidden>
               <Children />
             </Control>
@@ -203,7 +203,7 @@
                 <FontFamily>Franklin Gothic</FontFamily>
                 <FontStyle>Normal</FontStyle>
                 <FontWeight>Normal</FontWeight>
-                <FontSize>9.06042884990253</FontSize>
+                <FontSize>15.3267483358728</FontSize>
                 <HorizontalAlignment>Center</HorizontalAlignment>
                 <VerticalAlignment>Center</VerticalAlignment>
                 <Padding>
@@ -214,8 +214,32 @@
                 </Padding>
               </Font>
               <Text>discord channel for support:</Text>
-              <Location>15,77</Location>
-              <Size>144,21</Size>
+              <Location>23,128</Location>
+              <Size>241,33</Size>
+              <Hidden>False</Hidden>
+              <Children />
+            </Control>
+            <Control TypeIdentifier="Helios.Base.Text" Name="version_label 3" SnapTarget="True" Locked="False">
+              <FillBackground>False</FillBackground>
+              <BackgroundColor>#FF1E1E1E</BackgroundColor>
+              <FontColor>#FF66B31F</FontColor>
+              <Font>
+                <FontFamily>Franklin Gothic</FontFamily>
+                <FontStyle>Normal</FontStyle>
+                <FontWeight>Normal</FontWeight>
+                <FontSize>13.5</FontSize>
+                <HorizontalAlignment>Center</HorizontalAlignment>
+                <VerticalAlignment>Center</VerticalAlignment>
+                <Padding>
+                  <Left>0</Left>
+                  <Top>0</Top>
+                  <Right>0</Right>
+                  <Bottom>0</Bottom>
+                </Padding>
+              </Font>
+              <Text>forked from Capt Zeen FA-18C beta</Text>
+              <Location>31,35</Location>
+              <Size>222,48</Size>
               <Hidden>False</Hidden>
               <Children />
             </Control>
@@ -1273,7 +1297,7 @@
                 </Control>
                 <Control TypeIdentifier="Helios.Base.PushButton" Name="UFC Option Select Pushbutton 1" SnapTarget="True" Locked="False">
                   <Location>152,0</Location>
-                  <Size>29,29</Size>
+                  <Size>30,30</Size>
                   <Hidden>False</Hidden>
                   <Type>Momentary</Type>
                   <Image>Capt_Zeen\F18\button_006_NRM.png</Image>
@@ -5695,7 +5719,7 @@
         </Control>
         <Control TypeIdentifier="Helios.Panel" Name="NAV_panel" SnapTarget="True" Locked="True">
           <Location>0,0</Location>
-          <Size>533,581</Size>
+          <Size>771,581</Size>
           <Hidden>True</Hidden>
           <Background>
             <Color>#FF1E1E1E</Color>
